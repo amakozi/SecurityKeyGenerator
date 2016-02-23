@@ -1,0 +1,9 @@
+D:\Amakozi\Projects and Development\SecurityKeyGenerator\SecurityKeyGenerator\bin\Debug\SecurityKeyGenerator.exe.config
+D:\Amakozi\Projects and Development\SecurityKeyGenerator\SecurityKeyGenerator\bin\Debug\SecurityKeyGenerator.exe
+D:\Amakozi\Projects and Development\SecurityKeyGenerator\SecurityKeyGenerator\bin\Debug\SecurityKeyGenerator.pdb
+D:\Amakozi\Projects and Development\SecurityKeyGenerator\SecurityKeyGenerator\obj\Debug\SecurityKeyGenerator.csprojResolveAssemblyReference.cache
+D:\Amakozi\Projects and Development\SecurityKeyGenerator\SecurityKeyGenerator\obj\Debug\SecurityKeyGenerator.Form1.resources
+D:\Amakozi\Projects and Development\SecurityKeyGenerator\SecurityKeyGenerator\obj\Debug\SecurityKeyGenerator.Properties.Resources.resources
+D:\Amakozi\Projects and Development\SecurityKeyGenerator\SecurityKeyGenerator\obj\Debug\SecurityKeyGenerator.csproj.GenerateResource.Cache
+D:\Amakozi\Projects and Development\SecurityKeyGenerator\SecurityKeyGenerator\obj\Debug\SecurityKeyGenerator.exe
+D:\Amakozi\Projects and Development\SecurityKeyGenerator\SecurityKeyGenerator\obj\Debug\SecurityKeyGenerator.pdb
